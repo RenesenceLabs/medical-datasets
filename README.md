@@ -47,3 +47,7 @@ These datasets provide de-identified insurance data for diabetes.
 The data is provided by three managed care organizations in Allegheny County (Gateway Health Plan, Highmark Health, and UPMC) and represents their insured population for the 2015 calendar year.
 
 * https://catalog.data.gov/dataset/selected-trend-table-from-health-united-states-2011-diabetes-prevalence-and-glycemic-contr-63c3a
+
+### Bioinformatics data (genomics etc...): 
+* Bioconductor: https://www.bioconductor.org/
+* Galaxy project: 
