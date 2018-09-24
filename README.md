@@ -42,6 +42,12 @@ DiabetesPedigreeFunction: Diabetes pedigree function
 Age: Age (years)
 Outcome: Class variable (0 or 1)
 
+* https://www.kaggle.com/codina/raman-spectroscopy-of-diabetes
+This file contains the average of five scans at 12 cm-1 resolution collected at the left earlobe, with approximately 15 s total exposure time, for N=20 subjects (11 diabetic patients and 9 healthy controls) The first row is a header with the variable names The second row has the wavenumbers of the Raman shift, from 0 to 3159 cm^-1 Rows 3 - 22 contain the Raman spectra of each subject, rows from 3 to 13 correspond to Diabetes Mellitus type 2 patients, while rows 14 to 22 correspond to controls
+
+* https://www.kaggle.com/loveall/diabetes-by-demographies
+
+
 * https://catalog.data.gov/dataset/diabetes
 These datasets provide de-identified insurance data for diabetes. 
 The data is provided by three managed care organizations in Allegheny County (Gateway Health Plan, Highmark Health, and UPMC) and represents their insured population for the 2015 calendar year.
